@@ -5,13 +5,19 @@ body {
     justify-content: space-around;
 }
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 900px) {
     body {
         width: 100%;
         flex-direction: column;
     }
+    p {
+        width: 100%;
+        flex-direction: column;
+    }
+
 }
- 
+
+
 h1 {
     color: rgb(151, 62, 62);
     text-shadow: 2px 2px 1px #ffffff;
@@ -102,7 +108,7 @@ p {
     display: inline-block;
     align-items: center;
     top: 10px; /* Distância do topo */
-    right: 108px; /* Distância da direita */
+    right: 109px; /* Distância da direita */
     padding: 10px 20px;
     color: white;
     border: none;
@@ -147,7 +153,7 @@ p {
     text-align: center;
     align-items: center;
     background-color: #313131;
-    color: #000000;
+    color: #00eb14;
 }
 
 .dropdownn-content a:hover {
