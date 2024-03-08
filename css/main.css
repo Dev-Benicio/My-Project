@@ -5,7 +5,7 @@ body {
     justify-content: space-around;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 732px) {
     body {
         width: 100%;
         flex-direction: column;
