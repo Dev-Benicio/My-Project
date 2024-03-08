@@ -23,12 +23,12 @@ h1 {
     text-shadow: 2px 2px 1px #ffffff;
 }
 
-h2 {
+h2, b, p {
     color: #ffffff;
 }
 
-b {
-    color: white;
+p {
+    text-align: justify;
 }
 
 .menu-redes {
@@ -67,11 +67,6 @@ b {
 #yout {
     color:crimson;
     text-shadow: 2px 2px 2px rgb(41, 41, 41);
-}
-
-p {
-    color: #ffffff;
-    text-align: justify;
 }
 
 #mzoro {
