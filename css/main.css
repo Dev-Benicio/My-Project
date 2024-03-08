@@ -5,19 +5,6 @@ body {
     justify-content: space-around;
 }
 
-@media screen and (max-width: 732px) {
-    body {
-        width: 100%;
-        flex-direction: column;
-    }
-    p {
-        width: 100%;
-        flex-direction: column;
-    }
-
-}
-
-
 h1 {
     color: rgb(151, 62, 62);
     text-shadow: 2px 2px 1px #ffffff;
